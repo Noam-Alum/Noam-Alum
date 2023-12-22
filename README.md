@@ -1,7 +1,7 @@
 Hi 👋 My name is Noam Alum
 ==========================
 
-Currently working in web hosting and aמ ICT student.
+Currently working in web hosting and an ICT student.
 
 * 🌍  I'm based in Israel
 * 🖥️  See my portfolio at [Ncode](http://ncode.codes)
