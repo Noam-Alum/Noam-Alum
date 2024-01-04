@@ -4,7 +4,7 @@ Hi 👋 My name is Noam Alum
 Currently working in web hosting and an ICT student.
 
 * 🌍  I'm based in Israel
-* 🖥️  See my portfolio at [Ncode](http://ncode.codes)
+* 🖥️  See my website at [Ncode](http://ncode.codes)
 * ✉️  You can contact me at [nnoam.alum@gmail.com](mailto:nnoam.alum@gmail.com)
 * 🧠  I'm learning Networking
 * 🤝  I'm open to collaborating on Bash scripts
