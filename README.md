@@ -1,22 +1,14 @@
 My name is Noam Alum
 ==========================
 
-<h3>🌍  I'm based in Israel</h3>
-<h3>🖥️  See my website at <a href="http://ncode.codes">Ncode</a> - Noams Codes</h3>
-<h3>✉️  You can contact me at nnoam.alum@gmail.com</h3>
-<h3>🧠  I'm learning Networking</h3>
-<h3>🤝  I'm open to collaborating on Bash scripts</h3>
+<h5>🌍  I'm based in Israel</h5>
+<h5>🖥️  See my website at <a href="http://ncode.codes">Ncode</a> - Noams Codes</h5>
+<h5>✉️  You can contact me at nnoam.alum@gmail.com</h5>
+<h5>🧠  I'm learning Networking</h3>
+<h5>🤝  I'm open to collaborating on Bash scripts</h5>
+
 <hr>
-<pre>
-  <p>◆ "Where there is a shell, There is a way."</p>
-  <p>◇</p>
-  <p>    ◈ Currently working in web hosting and an ICT student.</p>
-  <p>    ◈ Loves to create shell scripts for daily tasks.</p>
-  <p>    ◈ Experienced with Programming, Networking, Cybersecurity, SQL and System administration.</p>
-  <p>    ◈ Proficient in Unix/Linux systems.</p>
-  <p>◇</p>
-</pre>
-<hr>
+
 ## Skills
 
 <p align="left">
@@ -35,3 +27,13 @@ My name is Noam Alum
 ![](https://github-readme-stats.vercel.app/api?username=Noam-Alum&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Noam-Alum&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noam-Alum&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<hr>
+<pre><p>◆ "Where there is a shell, There is a way."
+◇
+  ◈ Currently working in web hosting and an ICT student.
+  ◈ Loves to create shell scripts for daily tasks.
+  ◈ Experienced with Programming, Networking, Cybersecurity, SQL and System administration.
+  ◈ Proficient in Unix/Linux systems.
+◇</p></pre>
+<hr>
