@@ -1,13 +1,20 @@
 Hi 👋 My name is Noam Alum
 ==========================
 
-Currently working in web hosting and an ICT student.
+<p>◆ Where there is a shell, There is a way.</p>
+<p>◇</p>
+<p>    ◈ Currently working in web hosting and an ICT student.</p>
+<p>    ◈ Loves to create shell scripts for daily tasks.</p>
+<p>    ◈ Experienced with Programming, Networking, Cybersecurity, SQL and System administration.</p>
+<p>    ◈ Proficient in Unix/Linux systems.</p>
+<p>◇</p>
 
-* 🌍  I'm based in Israel
-* 🖥️  See my website at [Ncode](http://ncode.codes)
-* ✉️  You can contact me at [nnoam.alum@gmail.com](mailto:nnoam.alum@gmail.com)
-* 🧠  I'm learning Networking
-* 🤝  I'm open to collaborating on Bash scripts
+
+* <h3>🌍  I'm based in Israel</h3>
+* <h3>🖥️  See my website at <a href="http://ncode.codes">Ncode</a> - Noams Codes</h3>
+* <h3>✉️  You can contact me at <a href="nnoam.alum@gmail.com">nnoam.alum@gmail.com</a></h3>
+* <h3>🧠  I'm learning Networking</h3>
+* <h3>🤝  I'm open to collaborating on Bash scripts</h3>
 
 ## Skills
 
