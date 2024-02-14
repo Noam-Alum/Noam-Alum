@@ -28,12 +28,11 @@ My name is Noam Alum
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Noam-Alum&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noam-Alum&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<hr>
-<pre><p>◆ "Where there is a shell, There is a way."
-◇
-  ◈ Currently working in web hosting and an ICT student.
-  ◈ Loves to create shell scripts for daily tasks.
-  ◈ Experienced with Programming, Networking, Cybersecurity, SQL and System administration.
-  ◈ Proficient in Unix/Linux systems.
-◇</p></pre>
-<hr>
+---
+
+# "Where there is a shell, There is a way."
+
+<p>  ◈ Currently working in web hosting and an ICT student.<br>
+  ◈ Loves to create shell scripts for daily tasks.<br>
+  ◈ Experienced with Programming, Networking, Cybersecurity, SQL and System administration.<br>
+  ◈ Proficient in Unix/Linux systems.</p>
