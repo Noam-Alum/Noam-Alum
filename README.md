@@ -2,7 +2,7 @@ My name is Noam Alum
 ==========================
 
 <h5>🌍  I'm based in Israel</h5>
-<h5>🖥️  See my website at <a href="http://ncode.codes">Ncode</a> - Noams Codes</h5>
+<h5>🖥️  See my website at <a href="http://alum.sh">alum.sh</a> - Noams Codes</h5>
 <h5>✉️  You can contact me at nnoam.alum@gmail.com</h5>
 <h5>🧠  I'm learning Networking</h3>
 <h5>🤝  I'm open to collaborating on Bash scripts</h5>
