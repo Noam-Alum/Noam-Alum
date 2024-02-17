@@ -1,13 +1,19 @@
-My name is Noam Alum
-==========================
+# Noam Alum
 
-<h5>🌍  I'm based in Israel</h5>
-<h5>🖥️  See my website at <a href="http://alum.sh">alum.sh</a></h5>
-<h5>✉️  You can contact me at nnoam.alum@gmail.com</h5>
-<h5>🧠  I'm learning Networking</h3>
-<h5>🤝  I'm open to collaborating on Bash scripts</h5>
+**Location:** 🌍 Israel  
+**Website:** 🖥️ [alum.sh](http://alum.sh)  
+**Contact:** ✉️ nnoam.alum@gmail.com  
+**Learning:** 🧠 Networking  
+**Collaboration:** 🤝 Open to Bash script collaborations  
 
-<hr>
+---
+
+# "Where there is a shell, There is a way."
+
+- Currently working in web hosting and an ICT student.
+- Loves to create shell scripts for daily tasks.
+- Experienced with Programming, Networking, Cybersecurity, SQL, and System administration.
+- Proficient in Unix/Linux systems.
 
 ## Skills
 
@@ -23,16 +29,7 @@ My name is Noam Alum
 <a href="https://www.linkedin.com/in/noam-alum-51ba7421b/" rel="nofollow"> <themed-picture data-catalyst-inline="true" data-catalyst=""><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="visibility:visible;max-width:100%;"> </picture></themed-picture> </a>
 <a href="https://www.threads.net/@noam_alum" rel="nofollow"> <themed-picture data-catalyst-inline="true" data-catalyst=""><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" style="visibility:visible;max-width:100%;"> </picture></themed-picture> </a>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Noam-Alum&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Noam-Alum&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noam-Alum&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-# "Where there is a shell, There is a way."
-
-<p>  ◈ Currently working in web hosting and an ICT student.<br>
-  ◈ Loves to create shell scripts for daily tasks.<br>
-  ◈ Experienced with Programming, Networking, Cybersecurity, SQL and System administration.<br>
-  ◈ Proficient in Unix/Linux systems.</p>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noam-Alum&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noam-Alum&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noam-Alum&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
