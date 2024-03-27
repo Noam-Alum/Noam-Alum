@@ -2,7 +2,7 @@
 
 - **Location:** Israel 🌍
 - **GitHub:** [Noam-Alum](https://github.com/Noam-Alum) 🖥️
-- **Contact:** [nnoam.alum@gmail.com](mailto:nnoam.alum@gmail.com) ✉️
+- **Contact:** [noam.alum@gmail.com](mailto:noam.alum@gmail.com) ✉️
 - **Learning:** Networking, Python, SQL, Pentesting, and more 🧠
 
 <br>
