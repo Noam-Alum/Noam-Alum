@@ -14,8 +14,6 @@
 - Experienced in Programming, Networking, Cybersecurity, SQL, and System Administration.
 - Proficient in Unix/Linux systems.
 
-![Amazing GIF Animation](https://i.gifer.com/RIGj.gif)
-
 ---
 
 # More
