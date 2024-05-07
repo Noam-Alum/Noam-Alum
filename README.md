@@ -19,10 +19,10 @@
 
 ## GitHub Insights:
 ### Overview:
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noam-Alum&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noam-Alum&show_icons=true&theme=radical)
 
 ### Streak:
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noam-Alum&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noam-Alum&show_icons=true&theme=radical)
 
 ### Top Languages:
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noam-Alum&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noam-Alum&theme=radical&show_icons=true&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
