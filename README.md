@@ -21,8 +21,5 @@
 ### Overview:
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Noam-Alum&cc=000&tc=fff&ic=fff&bc=000)
 
-### Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noam-Alum&show_icons=true&theme=radical)
-
 ### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noam-Alum&theme=radical&show_icons=true&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
