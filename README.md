@@ -19,7 +19,7 @@
 
 ## GitHub Insights:
 ### Overview:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noam-Alum&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Noam-Alum&cc=000&tc=fff&ic=fff&bc=000)
 
 ### Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noam-Alum&show_icons=true&theme=radical)
