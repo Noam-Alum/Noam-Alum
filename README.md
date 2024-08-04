@@ -1,3 +1,5 @@
+![Banner](https://alum.sh/files/noam-banner.jpeg)
+
 # "Where there is a shell, There is a way"
 
 ## Status:
