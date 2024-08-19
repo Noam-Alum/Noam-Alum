@@ -7,7 +7,7 @@
 
 ## Connect:
 ➣ **Location:** Israel 🌍 <br>
-➣ **Websites:** [docs.alum.sh](https://alum.sh), [thelazyadmin.blog](https://thelazyadmin.blog/) 🖥️ <br>
+➣ **Websites:** [docs.alum.sh](https://docs.alum.sh), [thelazyadmin.blog](https://thelazyadmin.blog/) 🖥️ <br>
 ➣ **Contact:** [noam.alum@gmail.com](mailto:noam.alum@gmail.com) ✉️ <br>
 ➣ **Linkedin:** [noam-alum](https://www.linkedin.com/in/noam-alum/)
 
