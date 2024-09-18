@@ -3,7 +3,7 @@
 # "Where there is a shell, There is a way"
 
 ## Status:
-➟ I am a System Administrator at JetServer Cloud LTD, while also pursuing my studies in ICT. 
+➟ I am an Automation Specialist at JetApps, while also pursuing my studies in ICT. 
 
 ## Connect:
 ➣ **Location:** Israel 🌍 <br>
