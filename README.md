@@ -8,9 +8,9 @@ My name is **Noam Alum**, I'm an *Automation Specialist* at [JetApps](https://ww
 
 Back in my first year of high school I never imagined I'd be into **Linux**, **networking**, or **programming** (etc), but when I asked my dad for a job at his office he didn’t just give me a simple job like cleaning up; instead, he handed me a stack of papers with a challenge — complete these tasks and you’re hired!
 
-<Note type="note">
-  if I recal right it was creating a **LAMP server** and installing [WordPress](https://wordpress.org/) on it.
-</Note>
+> [!NOTE]
+>  if I recal right it was creating a **LAMP server** and installing [WordPress](https://wordpress.org/) on it.
+>
 
 At the time, he was running a web hosting company named **JetServer**, and Linux became a huge part of my learning curve, work, and eventually my life. Among all the distributions I’ve encountered, **AlmaLinux** stands out, It's the first Linux distro I ever used and it holds a special place in my heart.
 
